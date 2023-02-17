@@ -1,0 +1,12 @@
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\bin\Debug\net7.0\ProductApp.Core.deps.json
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\bin\Debug\net7.0\ProductApp.Core.dll
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\bin\Debug\net7.0\ProductApp.Core.pdb
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.csproj.AssemblyReference.cache
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.AssemblyInfoInputs.cache
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.AssemblyInfo.cs
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.csproj.CoreCompileInputs.cache
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.dll
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\refint\ProductApp.Core.dll
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ProductApp.Core.pdb
+C:\Project\Examples\ProductApp\src\Core\ProductApp.Core\obj\Debug\net7.0\ref\ProductApp.Core.dll

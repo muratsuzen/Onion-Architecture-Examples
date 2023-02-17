@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProductApp.Application/1.0.0": {
+        "dependencies": {
+          "ProductApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "ProductApp.Application.dll": {}
+        }
+      },
+      "ProductApp.Core/1.0.0": {
+        "runtime": {
+          "ProductApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -28,9 +28,9 @@ namespace Persistence.Repositories
             return entity;
         }
 
-        public Task<T?> GetAsync(Expression<Func<T, bool>> expression)
+        public async Task<T?> GetAsync(Expression<Func<T, bool>> expression)
         {
-            throw new NotImplementedException();
+            return await context.Set<T>().FirstOrDefaultAsync(expression);
         }
 
         public Task<List<T>> GetListAsync(Expression<Func<T, bool>>? expression = null, Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null, Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null, CancellationToken cancellationToken = default)

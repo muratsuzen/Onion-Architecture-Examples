@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "nsr2X+KSRwpLpEcpaDiD8h3eIyB4fHOQmjABsK069KzLX0G4y+ysssho0RERQpx3P+GEu5yrnsBlK8+Ja6kX4w==",
+  "dgSpecHash": "2lYxzId4ylKcaCJDclB2E3Z/UPNOf+VGeJwqvoXUfKFwaMyPkDNLn78/yFiDHqUpzgaspuvd5pPveT7UR8Dpfg==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Examples\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
+  "projectFilePath": "C:\\Project\\Examples\\Onion-Architecture-Examples\\Example2\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msuzen\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",

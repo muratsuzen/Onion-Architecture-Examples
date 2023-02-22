@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "r94vmcrNahcaGRq30FS+GOJwdxXSnumqFYsrbqXzsSN9f9L+PATmGl2WtQR8ZIU6AcEkbShMCVeNDcxehHAIGg==",
+  "dgSpecHash": "VWmj8hgpIGS0LpcVNhXbM+yLITIAglDT327Hq8/3VEST5skg5wQRJEzvxKpHfMfHBJJHf5FzrBYD1l4yQ93BNQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Examples\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Project\\Examples\\Onion-Architecture-Examples\\Example2\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msuzen\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

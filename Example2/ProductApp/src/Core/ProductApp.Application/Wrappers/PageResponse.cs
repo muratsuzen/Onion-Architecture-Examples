@@ -11,18 +11,7 @@ namespace ProductApp.Application.Wrappers
         public int PageNumber { get; set; }
         public int PageSize { get; set; }
 
-        public PageResponse(T value):base(value)
-        {
-
-        }
-
-        public PageResponse()
-        {
-            PageNumber = 1;
-            PageSize = 10;
-        }
-
-        public PageResponse(int pageNumber, int pageSize)
+        public PageResponse(T value,int pageNumber, int pageSize):base(value) 
         {
             PageNumber = pageNumber;
             PageSize = pageSize;

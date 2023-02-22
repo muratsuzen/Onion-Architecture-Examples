@@ -1,13 +1,14 @@
 ﻿using Application.Interfaces.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Domain.Entities;
+using Persistence.Context;
 
 namespace Persistence.Repositories
 {
-    public class ProductRepository : IProductRepository<>
+    public class ProductRepository: Repository<Product>, IProductRepository
     {
+        public ProductRepository(ApplicationDbContext context) : base(context)
+        {
+
+        }
     }
 }

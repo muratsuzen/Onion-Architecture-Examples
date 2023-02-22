@@ -11,6 +11,7 @@ namespace Application.Interfaces.Repositories
             Expression<Func<T, bool>>? expression = null,
             Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
             Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
+            bool enableTracking = true,
             CancellationToken cancellationToken = default);
         Task<T> AddAsync(T entity);
         Task<T> UpdateAsync(T entity);

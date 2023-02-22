@@ -3,12 +3,7 @@ using Domain.Common;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;
 using Persistence.Context;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Persistence.Repositories
 {
@@ -33,14 +28,25 @@ namespace Persistence.Repositories
             return await context.Set<T>().FirstOrDefaultAsync(expression);
         }
 
-        public Task<List<T>> GetListAsync(Expression<Func<T, bool>>? expression = null, Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null, Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null, CancellationToken cancellationToken = default)
+        public async Task<List<T>> GetListAsync(Expression<Func<T, bool>>? expression = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
+            Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
+            bool enableTracking = true,
+            CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            IQueryable<T> queryable = context.Set<T>();
+            if (!enableTracking) queryable = queryable.AsNoTracking();
+            if (include != null) queryable = include(queryable);
+            if (expression != null) queryable = queryable.Where(expression);
+            if (orderBy != null) return await orderBy(queryable).ToListAsync(cancellationToken);
+            return await queryable.ToListAsync(cancellationToken);
         }
 
-        public Task<T> UpdateAsync(T entity)
+        public async Task<T> UpdateAsync(T entity)
         {
-            throw new NotImplementedException();
+            context.Entry(entity).State = EntityState.Modified;
+            await context.SaveChangesAsync();
+            return entity;
         }
     }
 }

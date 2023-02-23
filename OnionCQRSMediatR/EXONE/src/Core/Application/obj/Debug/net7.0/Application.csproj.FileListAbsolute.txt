@@ -1,0 +1,15 @@
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\bin\Debug\net7.0\Application.deps.json
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\bin\Debug\net7.0\Application.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\bin\Debug\net7.0\Application.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\bin\Debug\net7.0\Domain.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\bin\Debug\net7.0\Domain.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\Application.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Core\Application\obj\Debug\net7.0\ref\Application.dll

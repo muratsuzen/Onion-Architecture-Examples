@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "kY9Y9pCy6aUPkjIZ0RmMuvTF9ovo+APcJOTDlXyiAAy4OB4RlWUuZqkn+yjkBJhg+JG6VxrTlzMBoh9V+CBIqw==",
+  "dgSpecHash": "9LB7xy5OPRjjcIuDliOIGUYoEmP2nk1blWyd9LFLr9oJu4FcDu5TXIQxTQYWA9qjHWkxkS/RqRTA6im1Y1rzhg==",
   "success": true,
   "projectFilePath": "C:\\Project\\Examples\\Onion-Architecture-Examples\\OnionCQRSMediatR\\EXONE\\src\\Core\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msuzen\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",

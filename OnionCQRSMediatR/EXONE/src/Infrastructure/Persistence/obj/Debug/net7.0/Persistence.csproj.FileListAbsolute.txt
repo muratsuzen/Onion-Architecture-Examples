@@ -1,0 +1,17 @@
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Application.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Application.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Infrastructure\Persistence\obj\Debug\net7.0\ref\Persistence.dll

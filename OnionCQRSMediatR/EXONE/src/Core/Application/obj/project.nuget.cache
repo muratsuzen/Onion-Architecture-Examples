@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zK3Pjpqn4tPMXLUCHOEQeOvXPYcSb7FG8Q83DHYgIz0J5U+TbfXdQ0JBqECmZKpklQLj2gb/Be4XCzRc5gAnfg==",
+  "dgSpecHash": "SPd37NoYzoC1FvkYhsF01zNOu9JJh/urxQSIRvLFMhcq0iuIkklPqbQgTzPjeW8fzshaPrkgMh++ULA5qeBPrA==",
   "success": true,
   "projectFilePath": "C:\\Project\\Examples\\Onion-Architecture-Examples\\OnionCQRSMediatR\\EXONE\\src\\Core\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\msuzen\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",

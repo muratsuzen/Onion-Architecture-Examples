@@ -45,3 +45,5 @@ C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Prese
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\obj\Debug\net7.0\WebApi.pdb
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -1,4 +1,5 @@
 using Application;
+using Application.Pipelines.Caching;
 using Persistence;
 
 var builder = WebApplication.CreateBuilder(args);

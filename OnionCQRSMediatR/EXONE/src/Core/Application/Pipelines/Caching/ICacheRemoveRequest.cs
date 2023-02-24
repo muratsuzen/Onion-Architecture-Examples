@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Application.Pipelines.Caching
 {
-    public class CacheSettings
+    public interface ICacheRemoveRequest
     {
-        public int SlidingExpiration { get; set; }
+        public string CacheKey { get;}
     }
 }

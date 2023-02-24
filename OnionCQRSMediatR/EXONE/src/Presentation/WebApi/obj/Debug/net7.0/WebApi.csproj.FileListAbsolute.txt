@@ -47,3 +47,4 @@ C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Prese
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\obj\Debug\net7.0\ref\WebApi.dll
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.dll
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll

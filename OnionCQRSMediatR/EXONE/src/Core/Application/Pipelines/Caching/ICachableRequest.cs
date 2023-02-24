@@ -8,8 +8,6 @@ namespace Application.Pipelines.Caching
 {
     public interface ICachableRequest
     {
-        bool BypassCache { get; }
-        string CacheKey { get; }
-        TimeSpan? SlidingExpiration { get; }
+         string CacheKey { get; }
     }
 }

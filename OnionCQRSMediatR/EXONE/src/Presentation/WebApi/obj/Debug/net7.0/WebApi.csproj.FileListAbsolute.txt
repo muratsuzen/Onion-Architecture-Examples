@@ -48,3 +48,6 @@ C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Prese
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.dll
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Project\Examples\Onion-Architecture-Examples\OnionCQRSMediatR\EXONE\src\Presentation\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll

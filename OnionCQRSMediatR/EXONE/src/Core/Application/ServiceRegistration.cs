@@ -1,4 +1,5 @@
-﻿using Application.Pipelines.Caching;
+﻿using Application.Pipelines.Authorization;
+using Application.Pipelines.Caching;
 using Application.Pipelines.Logging;
 using Application.Pipelines.Validation;
 using FluentValidation;
@@ -19,10 +20,12 @@ namespace Application
 
             services.AddDistributedMemoryCache();
 
+
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
             services.AddTransient(typeof(IPipelineBehavior<,>),typeof(LoggingBehavior<,>));
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(CachingBehavior<,>));
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(CacheRemovingBehavior<,>));
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(AuthorizationBehavior<,>));
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Application.Features.Products.Queries.GetProductList;
+﻿using Application.Features.Products.Commands.CreateCommand;
+using Application.Features.Products.Queries.GetProductList;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -22,6 +23,12 @@ namespace WebApi.Controllers
             GetProductListQuery getProductListQuery = new GetProductListQuery();
             var productListModel = await mediator.Send(getProductListQuery);
             return Ok(productListModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody] CreateProductCommand createProductCommand)
+        {
+
         }
     }
 }

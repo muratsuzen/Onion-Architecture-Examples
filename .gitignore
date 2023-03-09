@@ -1,0 +1,6 @@
+﻿CleanArchitecture/Core/Application/bin
+CleanArchitecture/.vs
+CleanArchitecture/Core/Application/obj
+CleanArchitecture/Core/Domain/bin
+CleanArchitecture/Infrastructure/Persistence/bin
+CleanArchitecture/Presentation/WebAPI/bin
